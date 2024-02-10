@@ -1,15 +1,21 @@
 **Customer Segmentation using K-Means Clustering**
 
 **Overview**
+
 This project focuses on utilizing K-Means clustering to segment customers based on their characteristics. The dataset contains information on customers, including gender, age, annual income, and spending score. The goal is to identify clusters of customers with similar attributes and characteristics to target them effectively.
 
 **Dataset**
+
 The dataset includes the following columns:
 
 CustomerID: Unique identifier for each customer.
+
 Gender: Gender of the customer (Male/Female).
+
 Age: Age of the customer.
+
 Annual Income (k$): Annual income of the customer in thousands of dollars.
+
 Spending Score (1-100): A score assigned to the customer based on their spending behavior.
 
 **Methodology**
